@@ -1,2 +1,2 @@
 # AzureDevOps
-Link
+Linked and fixed through GitHub.
